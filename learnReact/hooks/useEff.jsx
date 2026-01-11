@@ -18,6 +18,7 @@ function UseEff() {
   const addvalue=()=>{
     if(avi<10)
     setAvi(avi+1);
+   
 
     else
     alert("value is max 10");
